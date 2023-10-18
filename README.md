@@ -1,1 +1,7 @@
-ReadMe : # Yesna's Profile README ## About Me Hello! I'm Yesna, a trainee at CodeYourFuture, where I'm studying software development. I have a passion for coding and creating innovative solutions. ## Projects Here are some of the projects I've worked on during my software development journey: 1. [TV show DOM project] (https://cyf-yesna-omar-tv.netlify.app/) : I have used Java Script to create a TV show website. . 2. [Full-Stack-Project-Assessment] (https://6501c0cdfa1ef4000829313f--celebrated-blini-f76320.netlify.app/) :I have created a full-stack website using React for the front end and Node.js for the back end, where users can add, delete, like, and dislike videos. ## Contact - My CV: https://docs.google.com/document/d/1dJax8egFG9gilmNIAkNKh6xWJcVkCdOaQAOJCSfB_S0/edit?usp=sharing - My LinkIn: https://www.linkedin.com/in/yesna-omar-91b065247/ Feel free to reach out if you'd like to connect or collaborate on projects. Let's code together!
+Emerging Software Developer | Coding Enthusiast Ready to Make an Impact
+
+
+My CV: https://drive.google.com/file/d/17WpeQTzfq-riEOJYiSaSlEwg0i2Uor0Q/view?usp=share_link
+
+
+My LinkIn:  https://www.linkedin.com/in/muath-alawadhi-047233246/
